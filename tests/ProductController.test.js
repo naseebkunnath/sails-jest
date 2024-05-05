@@ -6,3 +6,10 @@ test('Product name should be Apple', () => {
 
     expect(prod.name).toBe('Apple');
 });
+
+test('Product category should be Fruit', () => {
+    let item = ProductService.getCategories();
+    console.log('===========item=============' + JSON.stringify(item));
+
+    expect(item.name).toBe('Fruit');
+});

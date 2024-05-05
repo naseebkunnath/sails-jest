@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1714905145750" clover="3.2.0">
-  <project timestamp="1714905145750" name="All files">
-    <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1" elements="7" coveredelements="3" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
+<coverage generated="1714905638574" clover="3.2.0">
+  <project timestamp="1714905638574" name="All files">
+    <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2" elements="8" coveredelements="5" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="ProductService.js" path="C:\Users\nasee\Documents\experiments\jest-tut\sails-api\api\services\ProductService.js">
-      <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
-      <line num="8" count="0" type="stmt"/>
-      <line num="13" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
     </file>
   </project>
 </coverage>
